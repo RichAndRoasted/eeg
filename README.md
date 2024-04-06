@@ -8,6 +8,4 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-
-<a target="_blank" href="https://openreview.net/attachment?id=mfdzJjqMq6&name=pdf#cite.admon2018role">
-</a>
+[fMRI from EEG article link ](https://openreview.net/attachment?id=mfdzJjqMq6&name=pdf#cite.admon2018role)
